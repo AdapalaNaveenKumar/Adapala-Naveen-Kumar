@@ -66,7 +66,7 @@ Explore my GitHub repositories for practical analytics projects:
 
 • **💼 LinkedIn:** https://www.linkedin.com/in/adapala-naveen-kumar/
 
-• **🌍 Portfolio:** https://theadapaladataanalyticstraining.netlify.app/
+• **🌍 Portfolio:** https://theadapalanaveenkumar.netlify.app/
 
 • **💻 GitHub:** https://github.com/AdapalaNaveenKumar
 
